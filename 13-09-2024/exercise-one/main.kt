@@ -13,7 +13,6 @@ fun isPrime(number: Int): Boolean {
     return true
 }
 
-
 fun main() {
     println("Hello, world!!!")
     
